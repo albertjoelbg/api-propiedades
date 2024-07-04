@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "imagen": "~/assets/images/propiedades/venta/casa/1.jpg",
+    "especificaciones": "Zona junto a pista, en esquina, totalmente urbanizada",
+    "precioBaseSoles": 170000,
+    "precioBaseDolares": 44391.05,
+    "tipo": "casa",
+    "disponibilidad": "venta",
+    "ubicacion": "Ica, Pisco, Paracas",
+    "areaTotal": 182,
+    "areaConstruida": 50
+  },
+  {
+    "id": 2,
+    "imagen": "~/assets/images/propiedades/venta/terreno-cultivo/2.jpg",
+    "especificaciones": "Tierras arenosas, agua extraída",
+    "precioBaseSoles": 70000,
+    "precioBaseDolares": 18278.67,
+    "tipo": "terreno de cultivo",
+    "disponibilidad": "venta",
+    "ubicacion": "Lima, Barranca, Supe",
+    "areaTotal": 10063,
+    "areaConstruida": 0
+  },
+  {
+    "id": 3,
+    "imagen": "~/assets/images/propiedades/venta/terreno/3.jpg",
+    "especificaciones": "Tierras arenosas, agua extraída",
+    "precioBaseSoles": 70000,
+    "precioBaseDolares": 18278.67,
+    "tipo": "terreno de cultivo",
+    "disponibilidad": "venta",
+    "ubicacion": "Lima, Barranca, Supe",
+    "areaTotal": 10063,
+    "areaConstruida": 0
+  }
+]
